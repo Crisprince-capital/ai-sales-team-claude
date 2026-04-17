@@ -1,230 +1,288 @@
-# Cold Outreach Sequence — 5-Email Framework
+# Cold Outreach Sequence — MCA (5 emails + phone + SMS)
 
-> A structured 5-email cold outreach sequence with integrated LinkedIn touchpoints.
-> Replace all [PLACEHOLDER] fields with prospect-specific information.
+> Cold outreach for Merchant Cash Advance prospecting. Default channel for MCA is the phone; email and SMS are supporting touches.
+> Replace all `[PLACEHOLDER]` fields with prospect-specific info before sending.
+> **Compliance:** Never call MCA a "loan." Never quote an "interest rate" — use *factor rate* and *payback*. Respect TCPA for SMS (written consent for marketing SMS to wireless numbers).
 
 ---
 
 ## Timeline Overview
 
-| Day  | Channel   | Action                     |
-| ---- | --------- | -------------------------- |
-| 1    | Email     | Email 1: The Hook          |
-| 2    | LinkedIn  | Connect request + note     |
-| 3    | Email     | Email 2: The Value Add     |
-| 5    | LinkedIn  | Engage with their content  |
-| 7    | Email     | Email 3: The Social Proof  |
-| 10   | LinkedIn  | Share relevant article     |
-| 14   | Email     | Email 4: Different Angle   |
-| 21   | Email     | Email 5: The Breakup       |
+| Day | Channel | Action |
+|----|---------|--------|
+| 1 | Phone | Call 1: The Opener (leave voicemail if no answer) |
+| 1 | Email | Email 1: Introduction + funding options |
+| 2 | SMS | SMS 1: One-line follow-up to voicemail (only with TCPA consent) |
+| 4 | Phone | Call 2: Follow-up call |
+| 4 | Email | Email 2: Use-of-funds angle |
+| 7 | Email | Email 3: Social proof — merchant in same industry |
+| 10 | Phone | Call 3: Different angle / different stakeholder |
+| 14 | Email | Email 4: Specific pre-approval teaser |
+| 21 | Email | Email 5: The breakup (door left open for renewal) |
 
 ---
 
-## Email 1: The Hook (Day 1)
+## Call 1: The Opener (Day 1)
 
-**Goal:** Capture attention with a personalized observation and clear value proposition.
+**Goal:** Get 90 seconds to pre-qualify. If merchant picks up, you're already winning.
+
+**Script — merchant answers:**
+```
+Hey, is this [FIRST_NAME]? [pause]
+This is [YOUR_NAME] over at [YOUR_COMPANY]. I work with [INDUSTRY] owners like yourself
+on working capital — inventory, equipment, payroll, expansion, that kind of thing.
+Quick question — if you had an extra [$25k-$150k depending on merchant size]
+hit your account by end of week, what would you do with it?
+
+[Let them talk. Listen for use-of-funds. Then:]
+
+Got it. We shop 40+ funders with one soft inquiry, fund in 24 to 72 hours,
+no collateral needed. Makes sense to see what you'd pre-qualify for?
+All I need is 3 months of business bank statements and a quick app.
+```
+
+**Script — voicemail:**
+```
+Hey [FIRST_NAME], this is [YOUR_NAME] at [YOUR_COMPANY]. I help [INDUSTRY] owners
+get working capital fast — 24 to 72 hours, no collateral.
+Saw [BUSINESS_NAME] and figured I'd reach out. Give me a call back at [YOUR_PHONE]
+or I'll drop you a quick note. Thanks, [FIRST_NAME].
+```
+
+**Key behaviors:**
+- Never say "loan." Say *advance*, *capital*, *funding*.
+- Never quote a factor rate on the opener — you haven't seen bank statements.
+- Never promise funding — say "pre-qualify" or "see what options fit."
+
+---
+
+## Email 1: Introduction (Day 1)
 
 **Subject Line Options:**
-- `[OBSERVATION_TOPIC] at [COMPANY_NAME]`
-- `Quick question about [SPECIFIC_INITIATIVE]`
-- `Noticed [SPECIFIC_DETAIL] — thought of something`
+- `Working capital for [BUSINESS_NAME]`
+- `[FIRST_NAME] — funding options for [BUSINESS_NAME]?`
+- `Saw [BUSINESS_NAME] on [SOURCE] — quick note`
 
 **Body:**
 
 ```
 Hi [FIRST_NAME],
 
-[PERSONALIZED_OBSERVATION — reference something specific: a recent blog post,
-product launch, job posting, funding round, or conference talk. 1-2 sentences.]
+I work with [INDUSTRY] owners across [STATE/REGION] on working capital when
+cash flow gets tight or an opportunity can't wait — inventory ahead of [BUSY_SEASON],
+equipment breakdowns, payroll gaps, expansion, or a vendor discount that pays for itself.
 
-That caught my attention because [CONNECTION_TO_YOUR_VALUE_PROP — explain why
-this observation is relevant to what you do. 1 sentence.]
+A few things that make this different from a bank loan:
 
-At [YOUR_COMPANY], we help [TARGET_PERSONA] [ACHIEVE_OUTCOME] by [HOW_YOU_DO_IT].
-[ONE_PROOF_POINT — a specific metric or result. e.g., "Our customers typically
-see a 40% reduction in X within 90 days."]
+• 24–72 hour funding once approved
+• $10k–$500k based on monthly revenue (no hard credit pull to see options)
+• No collateral; we work with owners across credit profiles
+• We shop 40+ funders with one soft inquiry — you get the best offer our panel returns
+• Daily or weekly ACH repayment, calibrated to your deposit flow
 
-Would it make sense to spend 15 minutes exploring whether this could help
-[COMPANY_NAME] with [SPECIFIC_CHALLENGE]?
+If you want to see what [BUSINESS_NAME] would pre-qualify for, I just need 3 months of
+business bank statements and a 1-page application. Takes 15 minutes on your side.
 
-Best,
+Happy to jump on a 5-minute call too — [YOUR_PHONE] or grab a slot here: [CALENDAR_LINK]
+
 [YOUR_NAME]
+[YOUR_TITLE] · [YOUR_COMPANY]
+[YOUR_PHONE] · [YOUR_EMAIL]
+
+— All offers subject to underwriting. Not a commitment to fund. Merchant Cash Advance
+is a purchase of future receivables, not a loan.
 ```
 
-**CTA:** Low-commitment ask (15-minute conversation).
-**Timing:** Tuesday-Thursday, 8-10 AM recipient's timezone.
+**CTA:** 5-minute call or send bank statements.
+**Timing:** Tuesday–Thursday, 9–11 AM local time.
 
 ---
 
-## Email 2: The Value Add (Day 3)
+## SMS 1: Voicemail Follow-Up (Day 2 — requires TCPA consent)
 
-**Goal:** Provide genuine value with no ask — position yourself as a helpful resource.
+**Script:**
+```
+Hey [FIRST_NAME], [YOUR_NAME] at [YOUR_COMPANY]. Left you a voicemail yesterday
+re: working capital for [BUSINESS_NAME]. Any interest in seeing what you'd
+pre-qualify for? Reply STOP to opt out.
+```
+
+**Rules:**
+- Only send if merchant opted in (web form, prior relationship, or explicit consent).
+- Include STOP language every time.
+- Never send to wireless numbers obtained from scraped lists without consent — TCPA penalties are $500–$1,500 per violation.
+
+---
+
+## Email 2: Use-of-Funds Angle (Day 4)
 
 **Subject Line Options:**
-- `Re: [PREVIOUS_SUBJECT]` (keep thread)
-- `[RESOURCE_TITLE] — thought you'd find this useful`
+- `Re: Working capital for [BUSINESS_NAME]`
+- `[BUSY_SEASON] inventory / [SPECIFIC_USE_OF_FUNDS] for [BUSINESS_NAME]`
 
 **Body:**
 
 ```
 Hi [FIRST_NAME],
 
-Following up with something I thought would be relevant to [COMPANY_NAME].
+Following up on my earlier note. One thing I should have mentioned:
 
-[DESCRIBE_RESOURCE — a report, benchmark, article, tool, or framework that
-is genuinely useful for their role/industry. 1-2 sentences.]
+The question isn't really "how much does the capital cost?" — it's "what does the
+capital make?"
 
-[LINK_TO_RESOURCE]
+I had a [SIMILAR_INDUSTRY] owner last [MONTH] use a $[EXAMPLE_ADVANCE] advance to
+[EXAMPLE_USE_OF_FUNDS — e.g., "buy 90 days of inventory at a 22% vendor discount
+ahead of holiday season"]. The discount alone covered the payback, and they walked
+away with an extra [EXAMPLE_PROFIT] in their pocket.
 
-[BRIEF_INSIGHT — share one key takeaway from the resource that relates to
-their specific situation. 2-3 sentences.]
-
-No response needed — just thought this might help with [THEIR_INITIATIVE].
+If there's something at [BUSINESS_NAME] right now where capital in the next 72 hours
+would move the needle — equipment, inventory, payroll, expansion, tax bill —
+it's worth a 5-minute conversation.
 
 [YOUR_NAME]
+[YOUR_PHONE] · [YOUR_EMAIL]
 ```
 
-**CTA:** No explicit ask — pure value delivery.
-**Timing:** Morning, same timezone.
+**CTA:** Tie capital to a specific dollar outcome.
 
 ---
 
-## Email 3: The Social Proof (Day 7)
-
-**Goal:** Build credibility with a relevant case study or metric from a similar company.
+## Email 3: Social Proof (Day 7)
 
 **Subject Line Options:**
-- `How [SIMILAR_COMPANY] solved [PROBLEM]`
-- `[METRIC_RESULT] — here's how [SIMILAR_COMPANY] did it`
+- `How [SIMILAR_MERCHANT_TYPE] in [CITY] funded [USE_OF_FUNDS]`
+- `$[ADVANCE_AMOUNT] in 48 hours — [INDUSTRY] case`
 
 **Body:**
 
 ```
 Hi [FIRST_NAME],
 
-I wanted to share a quick story that reminded me of [COMPANY_NAME].
+Quick story that made me think of [BUSINESS_NAME].
 
-[SIMILAR_COMPANY] — a [BRIEF_DESCRIPTION_OF_SIMILAR_COMPANY] — was facing
-[SPECIFIC_CHALLENGE_THEY_SHARE]. They were [DESCRIBE_PAIN_POINT_SITUATION].
+[BRIEF_DESCRIPTION_OF_SIMILAR_MERCHANT — e.g., "A 12-year family restaurant in
+[CITY] doing about $85k/month"] came to us needing $60k to [USE_OF_FUNDS —
+"replace a walk-in cooler and buy inventory before a slow January"]. Bank
+had declined them over a personal tax issue.
 
-After working with us, they [SPECIFIC_RESULT — use exact numbers].
-[ADDITIONAL_OUTCOME_OR_QUOTE_FROM_CUSTOMER].
+We placed the file with [FUNDER] at a 1.32 factor over 9 months — $79,200 total
+payback, daily ACH of about $345. They were funded Wednesday, cooler was
+installed Friday, zero service disruption.
 
-I see [COMPANY_NAME] in a similar position, especially with [REFERENCE_TO
-_THEIR_SPECIFIC_SITUATION].
+What I liked about the deal: the cooler alone was saving them ~$200/day in
+spoilage, so the daily payment was already paid for before it even hit the account.
 
-Would a 15-minute call to walk through how they did it be worth your time?
+If [BUSINESS_NAME] has something similar on the table, I'd love to see if we can
+get you a number. 3 months of bank statements is all I need to start.
 
-Best,
 [YOUR_NAME]
+[YOUR_PHONE] · [YOUR_EMAIL]
 
-P.S. [OPTIONAL_ADDITIONAL_SOCIAL_PROOF — e.g., "We've helped 50+ companies
-in [INDUSTRY] achieve similar results."]
+P.S. We've funded $[PORTFOLIO_VOLUME] for [INDUSTRY] owners this year alone.
 ```
-
-**CTA:** Specific value promise (learn how a peer solved a similar problem).
-**Timing:** Tuesday or Wednesday morning.
 
 ---
 
-## Email 4: The Different Angle (Day 14)
+## Call 3: Different-Angle Call (Day 10)
 
-**Goal:** Reframe with a new pain point, stakeholder perspective, or timely trigger.
+**Goal:** If merchant has been silent, call with a specific, time-bound hook.
 
-**Subject Line Options:**
-- `Different thought on [TOPIC]`
-- `[NEW_ANGLE_TOPIC] — worth considering?`
-- `Quick question for [DIFFERENT_STAKEHOLDER_ROLE]`
+**Script:**
+```
+[FIRST_NAME] — [YOUR_NAME] again. Not going to take your time —
+one quick thing.
+
+I've got a funder right now running a special for [INDUSTRY] through [END_OF_MONTH]:
+[SPECIFIC_PROGRAM — e.g., "0.5 point off the factor for 1st position files" OR
+"10% bigger advance for files submitted this week"]. Worth a 5-minute look before
+the window closes?
+```
+
+---
+
+## Email 4: Specific Pre-Approval Teaser (Day 14)
+
+**Subject:** `Pre-approval range for [BUSINESS_NAME]`
 
 **Body:**
 
 ```
 Hi [FIRST_NAME],
 
-I've been thinking about [COMPANY_NAME] from a different angle.
+Based on what I can see publicly about [BUSINESS_NAME] — [SIZE_SIGNAL, e.g.,
+"location size, hours, and average ticket"] — I'd estimate you'd pre-qualify for
+an advance in the $[LOW]–$[HIGH] range, 6–12 month term.
 
-[NEW_PERSPECTIVE — introduce a different pain point, department impact,
-or business outcome they may not have considered. Could reference:
-- A new industry trend affecting them
-- A cost/risk they may not have quantified
-- Impact on a different team/stakeholder
-2-3 sentences.]
+That's a rough ballpark — the real number depends on your last 3 months of deposits
+and any open positions. If you send the statements, I can get you a firm offer
+within a business day. No hard credit pull.
 
-[QUESTION_THAT_REFRAMES — ask a thought-provoking question that positions
-your solution as the answer. 1 sentence.]
-
-I'd be happy to share [SPECIFIC_INSIGHT_OR_ANALYSIS] that might help
-[COMPANY_NAME] think through this. Would that be useful?
+If this isn't the right time, no worries — just let me know and I'll close the
+file for now.
 
 [YOUR_NAME]
+[YOUR_PHONE] · [YOUR_EMAIL]
 ```
 
-**CTA:** Offer specific insight in exchange for a conversation.
-**Timing:** Thursday morning (gives weekend to reflect).
+**CTA:** Specific range + clear documentation ask.
 
 ---
 
 ## Email 5: The Breakup (Day 21)
 
-**Goal:** Respectful close that leaves the door open and sometimes triggers a response.
-
-**Subject Line Options:**
-- `Should I close the file?`
-- `One last thing, [FIRST_NAME]`
-- `Closing the loop`
+**Subject:** `Closing your file, [FIRST_NAME]`
 
 **Body:**
 
 ```
 Hi [FIRST_NAME],
 
-I've reached out a few times and haven't heard back, which is completely fine —
-I know how busy things get at [COMPANY_NAME].
+I've reached out a few times without hearing back, so I'll assume now isn't the
+right time for working capital at [BUSINESS_NAME]. Totally understood — timing
+is everything in this business.
 
-I don't want to be a nuisance, so this will be my last note for now.
+I'll close your file for now, but a few things:
 
-If [PAIN_POINT_OR_INITIATIVE] ever becomes a priority, I'd love to help.
-You can always reach me at [YOUR_EMAIL] or book time here: [CALENDAR_LINK].
+1. If anything changes — tax bill, equipment, expansion, slow season — you can
+   reach me any time at [YOUR_PHONE] or [YOUR_EMAIL]. Files re-open instantly.
 
-In the meantime, I wish you and the [COMPANY_NAME] team all the best with
-[SPECIFIC_INITIATIVE_OR_GOAL].
+2. Most of our merchants come back 6–12 months later when an opportunity pops up.
+   Save my number for then.
 
-Cheers,
+3. If you know another [INDUSTRY] owner who could use fast capital, an intro is
+   always appreciated — our best deals come from referrals.
+
+Wishing you and the [BUSINESS_NAME] team a strong [CURRENT_SEASON].
+
 [YOUR_NAME]
-
-P.S. If this isn't the right time but you know someone who might benefit,
-I'd really appreciate the introduction.
+[YOUR_COMPANY]
 ```
-
-**CTA:** Permission to reconnect in the future + referral request.
-**Timing:** Monday or Tuesday morning.
 
 ---
 
-## LinkedIn Touchpoints
+## Cadence Summary
 
-**Day 2 — Connect Request:**
-```
-Hi [FIRST_NAME] — I came across [COMPANY_NAME] while researching
-[INDUSTRY/TOPIC]. Would love to connect and share ideas on [RELEVANT_TOPIC].
-```
-
-**Day 5 — Content Engagement:**
-- Like and comment on one of their recent posts
-- Comment should add genuine insight, not just "Great post!"
-- Reference their content in a follow-up if relevant
-
-**Day 10 — Share Relevant Content:**
-- Share an article or resource tagging them (if appropriate)
-- Or send via LinkedIn message: a brief, relevant insight
+| Touch | Day | Channel | Purpose |
+|-------|----:|---------|---------|
+| Call 1 | 1 | Phone | Primary outreach |
+| Email 1 | 1 | Email | Intro + docs |
+| SMS 1 | 2 | SMS | VM follow-up (consent only) |
+| Call 2 | 4 | Phone | Follow-up |
+| Email 2 | 4 | Email | Use-of-funds angle |
+| Email 3 | 7 | Email | Social proof case |
+| Call 3 | 10 | Phone | Time-bound hook |
+| Email 4 | 14 | Email | Pre-approval range |
+| Email 5 | 21 | Email | Breakup |
 
 ---
 
 ## Sequence Notes
 
-- **Personalization minimum:** Each email must have at least 2 prospect-specific details
-- **Subject lines:** A/B test subject lines for Emails 1 and 3
-- **Opt-out:** Respect unsubscribes immediately; remove from all sequences
-- **CRM tracking:** Log all touches, opens, and replies in CRM
-- **Pause triggers:** Stop sequence immediately if prospect replies (positive or negative)
-- **Time between emails:** Minimum 48 hours; adjust based on engagement signals
+- **Phone-first is non-negotiable for MCA.** Email response rates are low; the phone is where deals actually move.
+- **Never call MCA a "loan."** Use *advance*, *capital*, *funding*, *working capital*. This is a receivables purchase governed by a merchant agreement.
+- **Never quote a factor rate before reviewing statements.** Quoting blind sets a floor you can't walk back.
+- **Never promise funding.** Always say "pre-qualify" or "see what you'd qualify for."
+- **TCPA compliance** for SMS: written consent required for marketing SMS to wireless numbers. Include STOP instructions every message.
+- **State disclosures:** for CA, NY, VA, UT merchants, state commercial-financing disclosure laws may apply at offer time. Keep your offer sheet compliant.
+- **Stop sequence immediately** if the merchant responds positively — switch to direct conversation.
+- **CRM tracking:** log call outcomes (talked, VM, no-answer, not-interested), email opens/replies, SMS opt-outs. Tag deals by funder placement once submitted.

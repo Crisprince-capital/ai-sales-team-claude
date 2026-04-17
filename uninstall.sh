@@ -21,6 +21,7 @@ AGENTS_DIR="$HOME/.claude/agents"
 # Remove skills
 SKILLS=(
     sales
+    sales-mca
     sales-prospect
     sales-research
     sales-qualify

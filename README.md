@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#quick-start"><img src="https://img.shields.io/badge/install-one--liner-blue?style=for-the-badge" alt="Install"></a>
-  <a href="#commands"><img src="https://img.shields.io/badge/14_skills-ready-8b5cf6?style=for-the-badge" alt="14 Skills"></a>
+  <a href="#commands"><img src="https://img.shields.io/badge/15_skills-MCA_tuned-8b5cf6?style=for-the-badge" alt="15 Skills"></a>
   <a href="#how-it-works"><img src="https://img.shields.io/badge/5_parallel-agents-22c55e?style=for-the-badge" alt="5 Agents"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-gray?style=for-the-badge" alt="MIT License"></a>
 </p>
@@ -70,7 +70,7 @@ pip install -r requirements.txt
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║  AI Sales Team — Claude Code Skills                     ║
-║  14 Skills · 5 Agents · 4 Scripts · PDF                 ║
+║  15 Skills (MCA-tuned) · 5 Agents · 4 Scripts · PDF                 ║
 ╚══════════════════════════════════════════════════════════╝
 
 Installing skills...

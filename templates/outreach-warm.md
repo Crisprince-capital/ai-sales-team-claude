@@ -1,171 +1,200 @@
-# Warm Introduction Sequence — 3-Email Framework
+# Warm Outreach Sequence — MCA (3 emails + phone)
 
-> A 3-email warm outreach sequence for prospects where you share context:
-> mutual connection, same event, shared community, content interaction, etc.
-> Replace all [PLACEHOLDER] fields with prospect-specific information.
+> Warm outreach for Merchant Cash Advance prospects where you share context:
+> prior touch, referral, processor lead, inbound form, or repeat merchant.
+> Replace all `[PLACEHOLDER]` fields with prospect-specific info.
+> **Compliance:** Never call MCA a "loan." Use *advance*, *capital*, *funding*, *receivables purchase*.
 
 ---
 
 ## Timeline Overview
 
-| Day | Channel  | Action                     |
-| --- | -------- | -------------------------- |
-| 1   | Email    | Email 1: The Warm Connect  |
-| 2   | LinkedIn | Engage with their content  |
-| 4   | Email    | Email 2: The Value Drop    |
-| 6   | LinkedIn | Send relevant resource     |
-| 8   | Email    | Email 3: The Ask           |
+| Day | Channel | Action |
+|-----|---------|--------|
+| 1   | Phone   | Call 1: Warm opener |
+| 1   | Email   | Email 1: Warm intro + docs request |
+| 3   | Phone   | Call 2: Doc collection follow-up |
+| 4   | Email   | Email 2: Soft value drop |
+| 7   | Email   | Email 3: Direct ask for the deal |
 
 ---
 
-## Email 1: The Warm Connect (Day 1)
+## Call 1: Warm Opener (Day 1)
 
-**Goal:** Establish the shared context and make a natural connection to your value proposition.
+**Script — processor lead or referral:**
+```
+Hey [FIRST_NAME]? This is [YOUR_NAME] at [YOUR_COMPANY]. [REFERRER_NAME / PROCESSOR]
+passed your info along — said you were looking at working capital for [BUSINESS_NAME].
+
+Got a minute to talk through what you need and see what we'd pre-qualify you for?
+```
+
+**Script — repeat merchant / renewal:**
+```
+[FIRST_NAME], it's [YOUR_NAME] from [YOUR_COMPANY]. Been a while — how's
+[BUSINESS_NAME] doing?
+
+[Listen. Then:]
+
+Reason I'm calling: based on your last advance, you should be in renewal territory
+around now. If there's anything coming up — inventory, expansion, seasonal —
+I can pull a fresh offer against your current pay-down. Want me to run it?
+```
+
+**Script — inbound form / web lead:**
+```
+Hi [FIRST_NAME] — [YOUR_NAME] at [YOUR_COMPANY]. I just got your inquiry on
+[SOURCE — website, Facebook ad, etc.]. Great timing. You mentioned you were
+looking for [AMOUNT] for [USE_OF_FUNDS] — let me ask you a few quick questions
+and we can see what we can put together.
+```
+
+**Pre-qualification questions (in order):**
+1. How long has [BUSINESS_NAME] been operating?
+2. What does it do monthly in gross revenue — ballpark?
+3. Do you have any open advances or daily/weekly ACH commitments right now?
+4. What's the capital for?
+5. Any tax liens, open judgments, or recent bankruptcy I should know about?
+6. Are you open to sending 3 months of business bank statements so I can get you a firm number?
+
+---
+
+## Email 1: The Warm Intro (Day 1)
 
 **Subject Line Options:**
-- `[MUTUAL_CONNECTION] mentioned I should reach out`
-- `Following up from [EVENT/COMMUNITY]`
-- `Loved your [POST/TALK] on [TOPIC]`
-- `Fellow [COMMUNITY/GROUP] member — quick note`
+- `[REFERRER_NAME] connected us — working capital for [BUSINESS_NAME]`
+- `Re: your working capital inquiry` *(inbound lead)*
+- `Renewal offer for [BUSINESS_NAME]` *(repeat merchant)*
+- `Following up from our call — next steps`
 
 **Body:**
 
 ```
 Hi [FIRST_NAME],
 
-[WARM_CONTEXT — explain the shared connection clearly. Examples:
-- "[MUTUAL_CONNECTION] and I were discussing [TOPIC] and your name came up.
-   They mentioned [COMPANY_NAME] is [DOING_SOMETHING_RELEVANT]."
-- "I really enjoyed your [TALK/POST/ARTICLE] at [EVENT] about [TOPIC].
-   Your point about [SPECIFIC_DETAIL] resonated with me."
-- "We're both in the [COMMUNITY/GROUP] and I've been following your
-   work on [SPECIFIC_PROJECT] — impressive results."
-2-3 sentences.]
+[WARM_CONTEXT — pick one:
+ • "[REFERRER_NAME] suggested I reach out about working capital for [BUSINESS_NAME]."
+ • "Thanks for the inquiry on [SOURCE] earlier today."
+ • "Good to reconnect — hope [BUSINESS_NAME] is having a strong [SEASON]."
+ • "Great talking just now. As promised, here's what I need to get you a firm offer."]
 
-The reason I'm reaching out: at [YOUR_COMPANY], we work with
-[SIMILAR_COMPANIES/PERSONAS] on [RELEVANT_CHALLENGE], and I noticed
-[OBSERVATION_ABOUT_THEIR_SITUATION].
+Based on what you shared ([MERCHANT'S_SITUATION — monthly revenue, TIB, use-of-funds]),
+I'm confident we can place this. To get you a firm offer within one business day,
+I need:
 
-[ONE_RELEVANT_PROOF_POINT — e.g., "We recently helped [SIMILAR_COMPANY]
-achieve [SPECIFIC_RESULT]."]
+1. **3 months of business bank statements** (all pages, PDF — not screenshots)
+2. **Completed 1-page application** (attached, or I can text/email a link)
+3. **Driver's license** (front)
+4. **Voided business check**
 
-Would love to hear your perspective on [RELEVANT_TOPIC] — would a
-quick 20-minute chat work sometime this week or next?
+Once I have those, I'll shop your file across our funder panel and bring you
+the best structure we can get — advance amount, factor rate, term, and daily/weekly payment.
 
-Warm regards,
+Note: the soft inquiry for underwriting doesn't affect your FICO. No collateral required.
+
+Reply with the docs or text them to [YOUR_PHONE] — whatever's easier. Happy to hop
+on a call if you have questions: [CALENDAR_LINK]
+
 [YOUR_NAME]
+[YOUR_COMPANY]
+[YOUR_PHONE] · [YOUR_EMAIL]
 
-P.S. [OPTIONAL_PERSONAL_TOUCH — reference something specific about them
-that isn't business-related, or add a genuine compliment.]
+— All offers subject to underwriting. MCA is a purchase of future receivables, not a loan.
 ```
 
-**CTA:** Casual conversation framed around exchanging perspectives.
-**Timing:** Tuesday-Thursday, 9-11 AM recipient's timezone.
+**CTA:** Document request — the highest-leverage single action in MCA sales.
+**Timing:** Within 2 hours of the warm trigger (freshness matters).
 
 ---
 
-## Email 2: The Value Drop (Day 4)
+## Call 2: Doc-Collection Follow-Up (Day 3)
 
-**Goal:** Deliver a highly relevant resource or insight that demonstrates your expertise.
+**Goal:** Unstick document submission. Most warm leads stall here.
 
-**Subject Line Options:**
-- `Re: [PREVIOUS_SUBJECT]` (keep thread)
-- `This might help with [THEIR_SPECIFIC_CHALLENGE]`
-- `[RESOURCE_TITLE] — made me think of [COMPANY_NAME]`
+**Script:**
+```
+[FIRST_NAME] — [YOUR_NAME], quick check-in. Did the bank statements come through OK?
+
+[If not yet:]
+Totally get it — pulling three months of statements is the most annoying part.
+Couple shortcuts:
+ • Most business banking apps let you download all three months as one PDF in
+   under a minute.
+ • If your bookkeeper has them, I can just email them directly — whatever's easier.
+
+What's the easiest way to get them to me today? I can have a firm offer in
+your inbox by tomorrow morning.
+```
+
+---
+
+## Email 2: The Soft Value Drop (Day 4)
+
+**Subject Line:** `Re: working capital for [BUSINESS_NAME] — one more thought`
 
 **Body:**
 
 ```
 Hi [FIRST_NAME],
 
-I came across something that immediately made me think of
-[COMPANY_NAME / THEIR_SPECIFIC_SITUATION].
+Still here when you're ready to send the docs.
 
-[DESCRIBE_VALUE — this should be a genuinely useful resource, insight,
-or framework. Options:
-- A relevant benchmark report or data point
-- A framework you use with clients
-- An introduction to someone in your network who could help them
-- A specific recommendation based on what you've observed
-2-3 sentences with the resource or insight.]
+One thing worth mentioning while you're thinking: the offer we place you with
+isn't your last one. Most of our merchants renew once they're [50-60%] paid
+down — usually at a better factor than the first time because the funder now
+has a clean pay history to underwrite against.
 
-[KEY_TAKEAWAY — extract the most relevant insight for their situation.
-1-2 sentences. e.g., "The key finding is that companies in [INDUSTRY]
-who [DO_THING] see [RESULT] — and I noticed [COMPANY_NAME] is in a
-great position to capitalize on this."]
+So even if the first advance is sized for the immediate need ([USE_OF_FUNDS]),
+the second one usually comes in bigger and cheaper if you execute clean.
 
-Happy to walk through this in more detail if helpful.
+Zero pressure — when you're ready to move, statements to [YOUR_EMAIL] or [YOUR_PHONE]
+and we'll go from there.
 
-Best,
 [YOUR_NAME]
 ```
 
-**CTA:** Soft offer to discuss further — no hard meeting request.
-**Timing:** Morning, same timezone.
-
 ---
 
-## Email 3: The Ask (Day 8)
+## Email 3: The Direct Ask (Day 7)
 
-**Goal:** Make a direct, specific meeting request with a clear value proposition.
-
-**Subject Line Options:**
-- `Re: [PREVIOUS_SUBJECT]` (keep thread)
-- `15 min to discuss [SPECIFIC_VALUE]?`
-- `Quick question, [FIRST_NAME]`
+**Subject Line:** `Last check — want me to hold this file open?`
 
 **Body:**
 
 ```
 Hi [FIRST_NAME],
 
-I wanted to follow up one more time — I know [MONTH/QUARTER] is a
-busy period for [INDUSTRY/THEIR_ROLE].
+Quick call on where you want to go from here:
 
-I'd love to spend 15 minutes sharing [SPECIFIC_DELIVERABLE —
-e.g., "how we helped [SIMILAR_COMPANY] reduce [METRIC] by [AMOUNT]"
-or "a framework for [SOLVING_THEIR_PROBLEM]"] and hearing about
-[COMPANY_NAME]'s approach to [RELEVANT_CHALLENGE].
+**Option A — Move now.** Send me the 3 months of statements today, I'll have
+a firm offer to you within 24 hours. If the numbers work, funding can hit
+your account in 2-3 business days.
 
-Here are a few times that work:
-- [OPTION_1]
-- [OPTION_2]
-- [OPTION_3]
+**Option B — Pause.** If this isn't the right time, no worries. I'll close
+the file and check back in [30-60 days]. Save my number — [YOUR_PHONE] — and
+it takes me 15 minutes to reopen when you're ready.
 
-Or feel free to grab any slot here: [CALENDAR_LINK]
+**Option C — Different product.** If it turns out MCA isn't the right fit —
+maybe you'd do better with a line of credit or equipment financing — tell me
+and I can refer you to the right partner.
 
-If the timing isn't right, just let me know — I'm happy to reconnect
-when [TRIGGER_EVENT — e.g., "you're planning for Q3" or "the new
-product launches"].
+Which one?
 
-Best,
 [YOUR_NAME]
+[YOUR_COMPANY]
+[YOUR_PHONE] · [YOUR_EMAIL]
 ```
 
-**CTA:** Direct meeting request with specific time options.
-**Timing:** Tuesday or Wednesday, 8-10 AM.
-
----
-
-## LinkedIn Touchpoints
-
-**Day 2 — Content Engagement:**
-- Like and comment on one of their recent posts
-- Reference the shared context in your comment
-- Add genuine value to the conversation (not just "Great post!")
-
-**Day 6 — Resource Share:**
-- Send the resource from Email 2 via LinkedIn DM (brief note)
-- Or share an article tagging them if publicly appropriate
-- Keep it brief: "Thought of you when I saw this — [LINK]"
+**CTA:** Three explicit paths — removes all ambiguity.
 
 ---
 
 ## Sequence Notes
 
-- **Warm context is key:** Every email must clearly reference the shared connection
-- **Tone:** More conversational than cold — like reaching out to a friend-of-a-friend
-- **If they respond at any point:** Drop the sequence, move to natural conversation
-- **If no response after Email 3:** Wait 30 days, then consider a single "checking in" note
-- **Mutual connection follow-up:** Let [MUTUAL_CONNECTION] know you reached out (courtesy)
-- **CRM tracking:** Log warm context source for future reference
+- **Warm leads are the best deals you'll fund this month.** Treat them accordingly — speed and responsiveness matter more than polish.
+- **Docs are the whole game.** A warm lead with no bank statements is still cold. Don't send more than 2 emails without getting the statements in hand.
+- **For referrals:** always close the loop with [REFERRER_NAME]. Send a thank-you once the deal funds, and share a referral fee or mutual value if your relationship allows.
+- **For renewals:** lead with the pay-down position, not the new ask. "You're at 58% paid — let's look at a renewal" is stronger than "want more money?"
+- **Stop sequence** the moment the merchant sends statements — switch to underwriting workflow.
+- **Never call MCA a loan.** Never quote an interest rate. Use *factor rate*, *payback*, *daily ACH*, *weekly ACH*, *advance*.
+- **CRM tracking:** tag warm source (referral / inbound / renewal / processor), capture docs received date, funder submitted, funder approved, funded date.

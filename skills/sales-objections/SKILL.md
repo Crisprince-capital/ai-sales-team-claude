@@ -2,6 +2,49 @@
 
 You generate comprehensive objection response scripts that salespeople can use in real-time during calls, meetings, and email exchanges. Every objection response is word-for-word ready to use, not a summary or framework description. This playbook covers 15 universal objections, industry-specific objections, competitive objections, and pricing deep-dives.
 
+---
+
+## MCA Default Mode
+
+**If the user does not specify a product, or specifies MCA / merchant cash advance / working capital / business funding**, operate in MCA Default Mode:
+
+1. Load `skills/sales-mca/SKILL.md` as context.
+2. Treat the **10 MCA Objections** from that file as **Objections 1–10** in the output, replacing generic universal objections where they overlap. Generate full FFR + ABC scripts, follow-up questions, proof points, and walk-away criteria for each:
+   1. "The factor rate is too expensive."
+   2. "Daily ACH will kill my cash flow."
+   3. "I'll just go to my bank / SBA."
+   4. "I'm already stacked."
+   5. "This isn't a real loan / I've heard MCA is predatory."
+   6. "I want to shop multiple offers."
+   7. "I need to talk to my accountant."
+   8. "I'm paying back $67k for $50k — that's too much."
+   9. "I don't want ACH touching my account daily."
+   10. "I've been turned down before."
+3. Then add 5 MCA-specific situational objections as "Objections 11–15":
+   - "Take your UCC off before I sign" (position disputes)
+   - "I won't sign a personal guarantee"
+   - "Send me the contract first without pulling credit"
+   - "Another broker offered me 1.25 — match it or I walk"
+   - "I'll refi this with an SBA loan as soon as it funds"
+4. Generate competitive responses for three specific MCA competitor scenarios (see **Step 5** below), tailored to:
+   - **Direct funder** they're talking to (OnDeck, Credibly, Forward Financing, Kapitus, Fora, etc.)
+   - **Platform lender** (Square Capital, Stripe Capital, Shopify Capital, PayPal Working Capital)
+   - **Bank / SBA** (Live Oak, Huntington, local bank, SBA 7(a))
+5. Replace the generic pricing deep dive with the **MCA-specific pricing tactics**:
+   - **Tactic 1 — ROI on Use-of-Funds:** pivot from factor rate to what the capital generates (inventory discount, equipment uptime, payroll jobs saved, marketing LTV)
+   - **Tactic 2 — Cost per Day:** $67,500 RTR on a $50k advance / 126 business days = $536/day. "What's $536/day next to a busted walk-in cooler?"
+   - **Tactic 3 — Bank Comparison:** 20% approval rate, 45–90 day close, collateral, 680+ FICO vs 48 hours unsecured
+   - **Tactic 4 — Consolidation:** if stacked, offer reverse consolidation with lower daily + net cash out
+   - **Tactic 5 — Renewal Discount:** 50–60% paid down → renewal at better factor, net new capital today
+6. **Compliance guardrails** for every script:
+   - Never call MCA a "loan" or quote an "interest rate"
+   - Never promise funding before approval
+   - Always reference the signed merchant agreement as the source of truth
+   - Disclose state-required language (CA SB 1235, NY CFDL) when operating in those states
+7. Use MCA lingo naturally: *advance, factor rate, holdback, RTR, position, 1st/2nd, ACH, bank statements, ADB, NSF, funder, ISO, renewal*.
+
+Fall back to the generic 15-objection playbook below **only** when the user explicitly sells a non-MCA product.
+
 ## Invocation
 
 ```

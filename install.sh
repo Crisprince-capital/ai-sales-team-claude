@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================================
 # AI Sales Team — Claude Code Skills Installer
-# 14 Skills · 5 Agents · 4 Scripts · PDF
+# 15 Skills (MCA-tuned) · 5 Agents · 4 Scripts · PDF
 # ============================================================================
 set -e
 
@@ -16,8 +16,8 @@ NC='\033[0m'
 echo ""
 echo -e "${BLUE}╔══════════════════════════════════════════════════════════════╗${NC}"
 echo -e "${BLUE}║                                                              ║${NC}"
-echo -e "${BLUE}║${NC}   ${CYAN}AI Sales Team — Claude Code Skills${NC}                        ${BLUE}║${NC}"
-echo -e "${BLUE}║${NC}   ${GREEN}14 Skills · 5 Agents · 4 Scripts · PDF${NC}                    ${BLUE}║${NC}"
+echo -e "${BLUE}║${NC}   ${CYAN}AI Sales Team — MCA-Tuned Skills${NC}                          ${BLUE}║${NC}"
+echo -e "${BLUE}║${NC}   ${GREEN}15 Skills · 5 Agents · 4 Scripts · PDF${NC}                    ${BLUE}║${NC}"
 echo -e "${BLUE}║                                                              ║${NC}"
 echo -e "${BLUE}╚══════════════════════════════════════════════════════════════╝${NC}"
 echo ""
@@ -96,6 +96,7 @@ fi
 # Install 13 sub-skills
 # ---------------------------------------------------------------------------
 SKILLS=(
+    sales-mca
     sales-prospect
     sales-research
     sales-qualify
@@ -228,6 +229,7 @@ echo ""
 # ---------------------------------------------------------------------------
 echo -e "${BLUE}Command Reference:${NC}"
 echo ""
+echo -e "  ${CYAN}/sales mca${NC}                      Load MCA playbook (factor math, ICP, objections)"
 echo -e "  ${CYAN}/sales prospect <url>${NC}          Full prospect analysis (5 agents)"
 echo -e "  ${CYAN}/sales quick <url>${NC}             60-second prospect snapshot"
 echo -e "  ${CYAN}/sales research <url>${NC}          Deep company research"
