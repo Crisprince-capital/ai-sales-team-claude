@@ -16,9 +16,9 @@
 ## [MERCHANT_LEGAL_NAME] (DBA: [MERCHANT_DBA])
 
 **Prepared for:** [OWNER_FULL_NAME], [OWNER_TITLE]
-**Prepared by:** [YOUR_NAME], [YOUR_TITLE]
+**Prepared by:** Cris Prince, Senior Funding Specialist
 **Funder:** [FUNDER_LEGAL_NAME] ([FUNDER_SHORT_NAME])
-**ISO / Broker:** [YOUR_COMPANY_NAME]
+**ISO / Broker:** Mrchnt Funding
 **Date:** [DATE]
 **Offer Valid Until:** [EXPIRATION_DATE — typically 7 business days]
 **Confidential — Merchant & Funder Only**
@@ -224,11 +224,11 @@ If the headline offer doesn't fit, here are alternative structures we can pursue
 
 ## 10. Your Team
 
-### [YOUR_NAME] — [YOUR_TITLE], [YOUR_COMPANY]
-[2 sentences of credibility. Example:
-"Funded $[YOUR_PORTFOLIO_VOLUME] across [N] merchants in the last 12 months,
-specializing in [YOUR_SPECIALTY — e.g., trucking, restaurants, 1st-position placements]."]
-[YOUR_PHONE] · [YOUR_EMAIL]
+### Cris Prince — Senior Funding Specialist, Mrchnt Funding
+Funded over $45M across 5 years for small business owners nationwide.
+We place deals across a 40+ funder panel in all 50 states, with 1st-position
+focus for clean-paper merchants and structured consolidations for stacked files.
+(929) 839-0555 · cris@mrchntfunding.com · https://mrchntfunding.com/
 
 ### [YOUR_UNDERWRITER_OR_ACCOUNT_MANAGER] — [TITLE], [FUNDER_SHORT_NAME]
 [One sentence describing their role post-funding — primarily servicing, mods, renewals.]
@@ -242,17 +242,17 @@ you're ready to look at a renewal or second position.
 
 ## 11. Comparable Deals
 
-### [INDUSTRY_EXAMPLE_1] — [STATE]
-- Profile: [BRIEF_PROFILE — e.g., "Family-run Italian restaurant, 14 years in business, $78k/mo avg deposits, 1st position."]
-- Structure: $[AMOUNT] advance at [FACTOR] over [TERM] months
-- Use: [USE_OF_FUNDS]
-- Outcome: [RESULT — e.g., "Funded in 48 hours. Renewed 8 months later at a better factor."]
+### Family-run Italian restaurant — Long Island, NY
+- Profile: 14 years in business, ~$78k/mo avg deposits, 1st position, clean bank statements.
+- Structure: $60,000 advance at 1.32 over 9 months · daily ACH ~$345.
+- Use: Replace walk-in cooler + January inventory buy.
+- Outcome: Funded in 48 hours. Renewed 8 months later at 1.28.
 
-### [INDUSTRY_EXAMPLE_2] — [STATE]
-- Profile: [BRIEF_PROFILE]
-- Structure: $[AMOUNT] advance at [FACTOR] over [TERM] months
-- Use: [USE_OF_FUNDS]
-- Outcome: [RESULT]
+### HVAC contractor — Tampa, FL
+- Profile: 6 years in business, ~$145k/mo avg deposits, 1st position.
+- Structure: $125,000 advance at 1.28 over 12 months · daily ACH ~$635.
+- Use: Fleet expansion — added 2 service vans.
+- Outcome: 2nd van generated ~$18k/mo in additional revenue within 60 days.
 
 ---
 
@@ -262,23 +262,23 @@ you're ready to look at a renewal or second position.
 |---|--------|-------|---------|
 | 1 | Review this proposal and attached merchant agreement | [OWNER_FIRST_NAME] | [DATE + 2 days] |
 | 2 | Ask questions — phone call, email, whatever works | Both | Anytime |
-| 3 | Sign merchant agreement and return to [YOUR_EMAIL] | [OWNER_FIRST_NAME] | Before [EXPIRATION_DATE] |
+| 3 | Sign merchant agreement and return to cris@mrchntfunding.com | [OWNER_FIRST_NAME] | Before [EXPIRATION_DATE] |
 | 4 | Final verification call with [FUNDER_SHORT_NAME] | Funder | Within 24 hrs of signed agreement |
 | 5 | Wire funded to business account ending [LAST_4] | Funder | [ESTIMATED_FUNDING_DATE] |
 
 **Questions? Concerns? Want to push back on the factor?**
-Call me direct: [YOUR_PHONE]. I'd rather rework the structure and get this right
+Call me direct: (929) 839-0555. I'd rather rework the structure and get this right
 than lose the deal over a number we can probably move.
 
 ---
 
 *This proposal is confidential and intended solely for [MERCHANT_LEGAL_NAME].
 Offer valid until [EXPIRATION_DATE]. All funding subject to final verification
-and underwriting. [YOUR_COMPANY_NAME] and [FUNDER_LEGAL_NAME] reserve the right
+and underwriting. Mrchnt Funding and [FUNDER_LEGAL_NAME] reserve the right
 to modify or withdraw this offer based on material changes in the merchant's
 business, bank activity, or credit profile prior to funding.*
 
 *Merchant Cash Advance is a purchase of future receivables, not a loan.
-[YOUR_COMPANY_NAME] operates as an Independent Sales Organization (ISO) for
+Mrchnt Funding operates as an Independent Sales Organization (ISO) for
 [FUNDER_LEGAL_NAME] and other funding partners; compensation is paid by the
 funder, not the merchant.*

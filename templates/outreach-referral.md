@@ -30,7 +30,7 @@ Before sending Email 1, confirm with `[REFERRER_NAME]`:
 4. **Heads-up text/email** from the referrer to the merchant:
 
 > **Referrer's template message:**
-> *Hey [FIRST_NAME] — I'm connecting you with [YOUR_NAME] at [YOUR_COMPANY].
+> *Hey [FIRST_NAME] — I'm connecting you with Cris Prince at Mrchnt Funding.
 > They placed my last advance and got me funded in 48 hours with a fair factor.
 > Worth a 5-minute call. Expect a note from them today.*
 
@@ -44,7 +44,7 @@ Before sending Email 1, confirm with `[REFERRER_NAME]`:
 
 **Script — merchant answers:**
 ```
-Hey [FIRST_NAME]? This is [YOUR_NAME] at [YOUR_COMPANY] — [REFERRER_NAME] passed
+Hey [FIRST_NAME]? This is Cris Prince at Mrchnt Funding — [REFERRER_NAME] passed
 your info along. They said you guys had been talking about [USE_OF_FUNDS /
 INITIATIVE] and might want to see some working capital options.
 
@@ -61,9 +61,9 @@ a fit, I'll tell you exactly what I need to get you a firm offer by tomorrow.
 
 **Script — voicemail:**
 ```
-Hey [FIRST_NAME], [YOUR_NAME] at [YOUR_COMPANY]. [REFERRER_NAME] asked me to reach
+Hey [FIRST_NAME], Cris Prince at Mrchnt Funding. [REFERRER_NAME] asked me to reach
 out about working capital for [BUSINESS_NAME]. Shoot me a text or call back at
-[YOUR_PHONE] when you get a minute — I can have you a firm offer within
+(929) 839-0555 when you get a minute — I can have you a firm offer within
 24 hours once we talk. Thanks.
 ```
 
@@ -103,14 +103,14 @@ To get you a firm offer within one business day, I just need:
 Soft inquiry only — no impact on your FICO. No collateral required. If the numbers
 don't work, I'll tell you straight.
 
-Happy to grab 10 minutes on the phone first if that's easier:
-[CALENDAR_LINK] or just call/text [YOUR_PHONE].
+Happy to grab 10 minutes on the phone first if that's easier — call or text
+(929) 839-0555.
 
 Thanks again to [REFERRER_NAME] for connecting us.
 
-[YOUR_NAME]
-[YOUR_TITLE] · [YOUR_COMPANY]
-[YOUR_PHONE] · [YOUR_EMAIL]
+Cris Prince
+Senior Funding Specialist · Mrchnt Funding
+(929) 839-0555 · cris@mrchntfunding.com
 
 — All offers subject to underwriting. MCA is a purchase of future receivables, not a loan.
 ```
@@ -126,7 +126,7 @@ Thanks again to [REFERRER_NAME] for connecting us.
 
 **Script:**
 ```
-Hey [FIRST_NAME] — [YOUR_NAME] again. Just following up to see if the bank
+Hey [FIRST_NAME] — Cris Prince again. Just following up to see if the bank
 statements came through OK.
 
 [If not:]
@@ -167,9 +167,9 @@ was [KEY_SIMILARITY — e.g., "clean 1st position, strong deposit rhythm,
 and a use-of-funds that generated clear ROI."]
 
 If we can get [BUSINESS_NAME] into a similar structure, the math should work
-the same way. Statements to [YOUR_EMAIL] or [YOUR_PHONE] when you're ready.
+the same way. Statements to cris@mrchntfunding.com or (929) 839-0555 when you're ready.
 
-[YOUR_NAME]
+Cris Prince
 ```
 
 ---
@@ -188,24 +188,23 @@ at [BUSINESS_NAME]. Completely understood — no pressure.
 
 A few things before I close the file:
 
-1. **Anytime you're ready** — text or call me at [YOUR_PHONE] and I can reopen
+1. **Anytime you're ready** — text or call me at (929) 839-0555 and I can reopen
    in 15 minutes. No re-work.
 
 2. **Renewal reminder** — most merchants come back 6–12 months later when an
    opportunity pops up. Save my number.
 
 3. **Referral circle** — if you know another [INDUSTRY] owner who'd benefit from
-   fast capital, I'd appreciate the intro. I pay [REFERRAL_FEE_STRUCTURE —
-   e.g., "a $500–$2,500 referral fee per funded deal depending on size"].
+   fast capital, I'd appreciate the intro. I always return the favor where I can.
 
 4. **Loop back with [REFERRER_NAME]** — I'll let them know we tried. Zero
    awkwardness on your end.
 
 Wishing [BUSINESS_NAME] a strong [CURRENT_SEASON].
 
-[YOUR_NAME]
-[YOUR_COMPANY]
-[YOUR_PHONE] · [YOUR_EMAIL]
+Cris Prince
+Mrchnt Funding
+(929) 839-0555 · cris@mrchntfunding.com
 ```
 
 ---
@@ -214,8 +213,8 @@ Wishing [BUSINESS_NAME] a strong [CURRENT_SEASON].
 
 **If the deal funded:**
 > *[REFERRER_NAME] — quick update: we got [BUSINESS_NAME] funded at $[AMOUNT] /
-> [FACTOR] / [TERM]. Thank you for the intro. [REFERRAL_FEE] heading your way
-> via [PAYMENT_METHOD] this week.*
+> [FACTOR] / [TERM]. Thank you for the intro — really appreciate you thinking
+> of me. Let me know if there's anything I can return the favor on.*
 
 **If the deal stalled:**
 > *[REFERRER_NAME] — wanted to let you know [BUSINESS_NAME] didn't move forward
@@ -234,7 +233,7 @@ Wishing [BUSINESS_NAME] a strong [CURRENT_SEASON].
 - **Speed is everything.** Referrals have a half-life of about 72 hours before the merchant loses momentum. Call within 24.
 - **Always credit the referrer.** Name them in the subject line, body, and voicemail.
 - **Keep the referrer in the loop — always.** Win, lose, or stall, send the update. Referrers who get updates refer again; the ones who are ghosted don't.
-- **Pay referral fees promptly.** A paid referrer is a repeat referrer. Spell out the fee structure in your ISO agreement.
+- **If/when you add a referral fee program**, spell it out in your ISO agreement and pay promptly — paid referrers are repeat referrers. Current Mrchnt Funding practice: return the favor through mutual introductions and business volume.
 - **Do not stack the merchant** without disclosing it to the referrer if there's a relationship risk (e.g., referrer is the merchant's accountant, and stacking would concern them).
 - **Never call MCA a "loan."** Use *advance*, *capital*, *funding*, *receivables purchase*.
 - **CRM tracking:** tag source as "referral — [REFERRER_NAME]", log fee structure, and set a reminder to thank the referrer whether the deal funds or not.

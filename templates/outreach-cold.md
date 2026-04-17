@@ -29,7 +29,7 @@
 **Script — merchant answers:**
 ```
 Hey, is this [FIRST_NAME]? [pause]
-This is [YOUR_NAME] over at [YOUR_COMPANY]. I work with [INDUSTRY] owners like yourself
+This is Cris Prince over at Mrchnt Funding. I work with [INDUSTRY] owners like yourself
 on working capital — inventory, equipment, payroll, expansion, that kind of thing.
 Quick question — if you had an extra [$25k-$150k depending on merchant size]
 hit your account by end of week, what would you do with it?
@@ -43,9 +43,9 @@ All I need is 3 months of business bank statements and a quick app.
 
 **Script — voicemail:**
 ```
-Hey [FIRST_NAME], this is [YOUR_NAME] at [YOUR_COMPANY]. I help [INDUSTRY] owners
+Hey [FIRST_NAME], this is Cris Prince at Mrchnt Funding. I help [INDUSTRY] owners
 get working capital fast — 24 to 72 hours, no collateral.
-Saw [BUSINESS_NAME] and figured I'd reach out. Give me a call back at [YOUR_PHONE]
+Saw [BUSINESS_NAME] and figured I'd reach out. Give me a call back at (929) 839-0555
 or I'll drop you a quick note. Thanks, [FIRST_NAME].
 ```
 
@@ -83,11 +83,11 @@ A few things that make this different from a bank loan:
 If you want to see what [BUSINESS_NAME] would pre-qualify for, I just need 3 months of
 business bank statements and a 1-page application. Takes 15 minutes on your side.
 
-Happy to jump on a 5-minute call too — [YOUR_PHONE] or grab a slot here: [CALENDAR_LINK]
+Happy to jump on a 5-minute call too — call or text me direct at (929) 839-0555.
 
-[YOUR_NAME]
-[YOUR_TITLE] · [YOUR_COMPANY]
-[YOUR_PHONE] · [YOUR_EMAIL]
+Cris Prince
+Senior Funding Specialist · Mrchnt Funding
+(929) 839-0555 · cris@mrchntfunding.com
 
 — All offers subject to underwriting. Not a commitment to fund. Merchant Cash Advance
 is a purchase of future receivables, not a loan.
@@ -102,7 +102,7 @@ is a purchase of future receivables, not a loan.
 
 **Script:**
 ```
-Hey [FIRST_NAME], [YOUR_NAME] at [YOUR_COMPANY]. Left you a voicemail yesterday
+Hey [FIRST_NAME], Cris Prince at Mrchnt Funding. Left you a voicemail yesterday
 re: working capital for [BUSINESS_NAME]. Any interest in seeing what you'd
 pre-qualify for? Reply STOP to opt out.
 ```
@@ -139,8 +139,8 @@ If there's something at [BUSINESS_NAME] right now where capital in the next 72 h
 would move the needle — equipment, inventory, payroll, expansion, tax bill —
 it's worth a 5-minute conversation.
 
-[YOUR_NAME]
-[YOUR_PHONE] · [YOUR_EMAIL]
+Cris Prince
+(929) 839-0555 · cris@mrchntfunding.com
 ```
 
 **CTA:** Tie capital to a specific dollar outcome.
@@ -175,10 +175,10 @@ spoilage, so the daily payment was already paid for before it even hit the accou
 If [BUSINESS_NAME] has something similar on the table, I'd love to see if we can
 get you a number. 3 months of bank statements is all I need to start.
 
-[YOUR_NAME]
-[YOUR_PHONE] · [YOUR_EMAIL]
+Cris Prince
+(929) 839-0555 · cris@mrchntfunding.com
 
-P.S. We've funded $[PORTFOLIO_VOLUME] for [INDUSTRY] owners this year alone.
+P.S. We've funded over $45M for small business owners across the last 5 years.
 ```
 
 ---
@@ -189,7 +189,7 @@ P.S. We've funded $[PORTFOLIO_VOLUME] for [INDUSTRY] owners this year alone.
 
 **Script:**
 ```
-[FIRST_NAME] — [YOUR_NAME] again. Not going to take your time —
+[FIRST_NAME] — Cris Prince again. Not going to take your time —
 one quick thing.
 
 I've got a funder right now running a special for [INDUSTRY] through [END_OF_MONTH]:
@@ -220,8 +220,8 @@ within a business day. No hard credit pull.
 If this isn't the right time, no worries — just let me know and I'll close the
 file for now.
 
-[YOUR_NAME]
-[YOUR_PHONE] · [YOUR_EMAIL]
+Cris Prince
+(929) 839-0555 · cris@mrchntfunding.com
 ```
 
 **CTA:** Specific range + clear documentation ask.
@@ -244,7 +244,7 @@ is everything in this business.
 I'll close your file for now, but a few things:
 
 1. If anything changes — tax bill, equipment, expansion, slow season — you can
-   reach me any time at [YOUR_PHONE] or [YOUR_EMAIL]. Files re-open instantly.
+   reach me any time at (929) 839-0555 or cris@mrchntfunding.com. Files re-open instantly.
 
 2. Most of our merchants come back 6–12 months later when an opportunity pops up.
    Save my number for then.
@@ -254,8 +254,8 @@ I'll close your file for now, but a few things:
 
 Wishing you and the [BUSINESS_NAME] team a strong [CURRENT_SEASON].
 
-[YOUR_NAME]
-[YOUR_COMPANY]
+Cris Prince
+Mrchnt Funding
 ```
 
 ---

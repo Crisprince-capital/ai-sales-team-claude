@@ -23,7 +23,7 @@
 
 **Script — processor lead or referral:**
 ```
-Hey [FIRST_NAME]? This is [YOUR_NAME] at [YOUR_COMPANY]. [REFERRER_NAME / PROCESSOR]
+Hey [FIRST_NAME]? This is Cris Prince at Mrchnt Funding. [REFERRER_NAME / PROCESSOR]
 passed your info along — said you were looking at working capital for [BUSINESS_NAME].
 
 Got a minute to talk through what you need and see what we'd pre-qualify you for?
@@ -31,7 +31,7 @@ Got a minute to talk through what you need and see what we'd pre-qualify you for
 
 **Script — repeat merchant / renewal:**
 ```
-[FIRST_NAME], it's [YOUR_NAME] from [YOUR_COMPANY]. Been a while — how's
+[FIRST_NAME], it's Cris Prince from Mrchnt Funding. Been a while — how's
 [BUSINESS_NAME] doing?
 
 [Listen. Then:]
@@ -43,7 +43,7 @@ I can pull a fresh offer against your current pay-down. Want me to run it?
 
 **Script — inbound form / web lead:**
 ```
-Hi [FIRST_NAME] — [YOUR_NAME] at [YOUR_COMPANY]. I just got your inquiry on
+Hi [FIRST_NAME] — Cris Prince at Mrchnt Funding. I just got your inquiry on
 [SOURCE — website, Facebook ad, etc.]. Great timing. You mentioned you were
 looking for [AMOUNT] for [USE_OF_FUNDS] — let me ask you a few quick questions
 and we can see what we can put together.
@@ -92,12 +92,12 @@ the best structure we can get — advance amount, factor rate, term, and daily/w
 
 Note: the soft inquiry for underwriting doesn't affect your FICO. No collateral required.
 
-Reply with the docs or text them to [YOUR_PHONE] — whatever's easier. Happy to hop
-on a call if you have questions: [CALENDAR_LINK]
+Reply with the docs or text them to (929) 839-0555 — whatever's easier. Happy to hop
+on a call if you have questions — just ring (929) 839-0555.
 
-[YOUR_NAME]
-[YOUR_COMPANY]
-[YOUR_PHONE] · [YOUR_EMAIL]
+Cris Prince
+Mrchnt Funding
+(929) 839-0555 · cris@mrchntfunding.com
 
 — All offers subject to underwriting. MCA is a purchase of future receivables, not a loan.
 ```
@@ -113,7 +113,7 @@ on a call if you have questions: [CALENDAR_LINK]
 
 **Script:**
 ```
-[FIRST_NAME] — [YOUR_NAME], quick check-in. Did the bank statements come through OK?
+[FIRST_NAME] — Cris Prince, quick check-in. Did the bank statements come through OK?
 
 [If not yet:]
 Totally get it — pulling three months of statements is the most annoying part.
@@ -147,10 +147,10 @@ has a clean pay history to underwrite against.
 So even if the first advance is sized for the immediate need ([USE_OF_FUNDS]),
 the second one usually comes in bigger and cheaper if you execute clean.
 
-Zero pressure — when you're ready to move, statements to [YOUR_EMAIL] or [YOUR_PHONE]
+Zero pressure — when you're ready to move, statements to cris@mrchntfunding.com or (929) 839-0555
 and we'll go from there.
 
-[YOUR_NAME]
+Cris Prince
 ```
 
 ---
@@ -171,7 +171,7 @@ a firm offer to you within 24 hours. If the numbers work, funding can hit
 your account in 2-3 business days.
 
 **Option B — Pause.** If this isn't the right time, no worries. I'll close
-the file and check back in [30-60 days]. Save my number — [YOUR_PHONE] — and
+the file and check back in [30-60 days]. Save my number — (929) 839-0555 — and
 it takes me 15 minutes to reopen when you're ready.
 
 **Option C — Different product.** If it turns out MCA isn't the right fit —
@@ -180,9 +180,9 @@ and I can refer you to the right partner.
 
 Which one?
 
-[YOUR_NAME]
-[YOUR_COMPANY]
-[YOUR_PHONE] · [YOUR_EMAIL]
+Cris Prince
+Mrchnt Funding
+(929) 839-0555 · cris@mrchntfunding.com
 ```
 
 **CTA:** Three explicit paths — removes all ambiguity.
