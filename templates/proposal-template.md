@@ -1,7 +1,10 @@
-# Client Proposal
+# MCA Funding Proposal (Term Sheet + Proposal Letter)
 
-> Professional client proposal template with all 11 sections.
-> Customize all [PLACEHOLDER] fields for each prospect.
+> Merchant Cash Advance proposal template. Use AFTER underwriting approval —
+> this is the document you hand a merchant alongside the merchant agreement.
+> Customize all `[PLACEHOLDER]` fields for each deal.
+> **Compliance:** This is NOT a loan document. MCA is a purchase of future receivables.
+> Include state-specific disclosures (CA SB 1235, NY CFDL, VA, UT) where applicable.
 
 ---
 
@@ -9,253 +12,273 @@
 
 ---
 
-# [PROPOSAL_TITLE]
+# Working Capital Proposal & Term Sheet
+## [MERCHANT_LEGAL_NAME] (DBA: [MERCHANT_DBA])
 
-**Prepared for:** [CLIENT_COMPANY_NAME]
-**Prepared by:** [YOUR_NAME], [YOUR_TITLE]
-**Company:** [YOUR_COMPANY_NAME]
+**Prepared for:** [OWNER_FULL_NAME], [OWNER_TITLE]
+**Prepared by:** Cris Prince, Senior Funding Specialist
+**Funder:** [FUNDER_LEGAL_NAME] ([FUNDER_SHORT_NAME])
+**ISO / Broker:** Mrchnt Funding
 **Date:** [DATE]
-**Valid Until:** [EXPIRATION_DATE]
-**Confidential**
+**Offer Valid Until:** [EXPIRATION_DATE — typically 7 business days]
+**Confidential — Merchant & Funder Only**
 
 ---
 
 ## 2. Executive Summary
 
-Dear [CLIENT_CONTACT_NAME],
+[OWNER_FIRST_NAME],
 
-Thank you for the opportunity to present this proposal. After our conversations
-on [MEETING_DATES] and our research into [CLIENT_COMPANY_NAME]'s situation,
-we're confident we can help you [PRIMARY_OUTCOME].
+Based on our review of [MERCHANT_DBA]'s business bank statements and application,
+we've secured a funding offer from **[FUNDER_SHORT_NAME]**. This proposal outlines
+the economics, repayment structure, and what we need from you to fund.
 
-**The Challenge:**
-[2-3 sentences summarizing the client's current pain points and the cost of
-inaction. Be specific and reference their words from discovery conversations.]
+**The Ask:**
+[1-2 sentences summarizing the merchant's stated use-of-funds, captured during
+discovery. Example: "Bridge a seasonal cash-flow gap in Q1 and fund a $28,000
+inventory buy at a 22% vendor discount ahead of the spring quarter."]
 
-**The Opportunity:**
-[2-3 sentences describing the potential impact of solving this challenge.
-Use quantified outcomes where possible — e.g., "Based on companies of
-similar size, we project [X]% improvement in [METRIC] within [TIMEFRAME]."]
+**The Offer:**
+- **Advance Amount:** $[ADVANCE_AMOUNT]
+- **Factor Rate:** [X.XX]
+- **Purchased Amount (RTR):** $[RTR_AMOUNT]
+- **Term:** [X] months ([BUSINESS_DAYS_OR_WEEKS] payments)
+- **Repayment:** $[DAILY_OR_WEEKLY_PAYMENT] via [DAILY / WEEKLY] ACH
+- **Estimated Monthly Debit:** $[MONTHLY_EQUIVALENT] (~[X]% of avg monthly deposits)
+- **Funding Timeline:** [1-3] business days from signed merchant agreement
 
-**Our Approach:**
-[2-3 sentences on why your solution is uniquely positioned to deliver
-this outcome. Reference specific differentiators relevant to their needs.]
-
----
-
-## 3. Situation Analysis
-
-### Current State
-[DESCRIBE_CURRENT_TOOLS_PROCESSES_AND_PAIN_POINTS]
-
-- **Process:** [HOW_THEY_CURRENTLY_HANDLE_THE_FUNCTION]
-- **Tools:** [CURRENT_TOOLS_AND_SYSTEMS]
-- **Team:** [WHO_IS_INVOLVED_AND_THEIR_ROLES]
-- **Challenges:** [SPECIFIC_PAIN_POINTS_FROM_DISCOVERY]
-
-### Impact Assessment
-
-| Impact Area         | Current Cost / Risk                    |
-| ------------------- | -------------------------------------- |
-| Revenue             | [LOST_REVENUE_OR_MISSED_OPPORTUNITY]   |
-| Productivity        | [HOURS_WASTED_OR_INEFFICIENCY]         |
-| Risk                | [COMPLIANCE_SECURITY_OPERATIONAL_RISK] |
-| Customer Experience | [IMPACT_ON_END_CUSTOMERS]              |
-
-### Desired Future State
-[DESCRIBE_WHAT_SUCCESS_LOOKS_LIKE — their vision for the ideal outcome,
-as expressed during discovery. 2-3 sentences.]
+**Why This Works for [MERCHANT_DBA]:**
+[2-3 sentences tying the capital to a specific ROI outcome. Example: "The
+inventory discount alone recovers ~$6,200 on the $28,000 buy — roughly 55% of
+the total cost of this advance. The remaining capital gives you runway through
+your slowest month and keeps payroll on schedule."]
 
 ---
 
-## 4. Proposed Solution
+## 3. Your Business Snapshot
 
-### Overview
-[HIGH_LEVEL_DESCRIPTION of your proposed solution and how it addresses
-each identified challenge. 3-4 sentences.]
+### Underwriting Profile
 
-### Key Capabilities
+| Metric | Value |
+|--------|-------|
+| Legal Entity | [ENTITY_TYPE — LLC / Corp / etc.] |
+| State of Formation | [STATE] |
+| Time in Business | [X] years ([TIB_MONTHS] months) |
+| Industry | [INDUSTRY_NAME] · NAICS [NAICS_CODE] |
+| Avg Monthly Deposits (last 3 mo) | $[AVG_MONTHLY_REVENUE] |
+| Average Daily Balance | $[ADB] |
+| Deposit Count (last month) | [DEPOSIT_COUNT] |
+| NSFs (last 90 days) | [NSF_COUNT] |
+| Negative Days (last 90) | [NEG_DAYS] |
+| Open MCA Positions | [POSITION_COUNT] · Position [1ST / 2ND / 3RD] |
+| Paper Grade | [A+ / A / B+ / B / B− / C] |
 
-**[CAPABILITY_1_NAME]**
-[DESCRIPTION — what it does and how it solves PAIN_POINT_1. 2-3 sentences.]
+### Use of Funds (as stated)
 
-**[CAPABILITY_2_NAME]**
-[DESCRIPTION — what it does and how it solves PAIN_POINT_2. 2-3 sentences.]
-
-**[CAPABILITY_3_NAME]**
-[DESCRIPTION — what it does and how it solves PAIN_POINT_3. 2-3 sentences.]
-
-### Why [YOUR_COMPANY]
-
-1. **[DIFFERENTIATOR_1]:** [EXPLANATION — why this matters for the client]
-2. **[DIFFERENTIATOR_2]:** [EXPLANATION]
-3. **[DIFFERENTIATOR_3]:** [EXPLANATION]
-
----
-
-## 5. Scope of Work
-
-### Phase 1: [PHASE_NAME — e.g., Discovery & Setup] — [DURATION]
-- [DELIVERABLE_1]
-- [DELIVERABLE_2]
-- [DELIVERABLE_3]
-- **Milestone:** [PHASE_1_MILESTONE]
-
-### Phase 2: [PHASE_NAME — e.g., Implementation] — [DURATION]
-- [DELIVERABLE_4]
-- [DELIVERABLE_5]
-- [DELIVERABLE_6]
-- **Milestone:** [PHASE_2_MILESTONE]
-
-### Phase 3: [PHASE_NAME — e.g., Optimization & Handoff] — [DURATION]
-- [DELIVERABLE_7]
-- [DELIVERABLE_8]
-- [DELIVERABLE_9]
-- **Milestone:** [PHASE_3_MILESTONE]
-
-### Out of Scope
-The following are explicitly excluded from this engagement:
-- [EXCLUSION_1]
-- [EXCLUSION_2]
-- [EXCLUSION_3]
+[MERCHANT'S_STATED_USE — bulleted breakdown. Example:
+- $18,000 — spring inventory buy (vendor discount)
+- $7,500 — payroll bridge (weeks 10–13)
+- $2,500 — POS upgrade
+]
 
 ---
 
-## 6. Timeline
+## 4. The Economics
 
-| Week    | Phase                 | Key Activities              | Milestone           |
-| ------- | --------------------- | --------------------------- | ------------------- |
-| 1-2     | Discovery & Setup     | [ACTIVITIES]                | [MILESTONE]         |
-| 3-6     | Implementation        | [ACTIVITIES]                | [MILESTONE]         |
-| 7-8     | Testing & QA          | [ACTIVITIES]                | [MILESTONE]         |
-| 9-10    | Optimization          | [ACTIVITIES]                | [MILESTONE]         |
-| 11-12   | Handoff & Training    | [ACTIVITIES]                | [MILESTONE]         |
+### Headline Numbers
 
-**Estimated Start Date:** [START_DATE]
-**Estimated Completion:** [END_DATE]
+| | |
+|---|---|
+| **Advance deposited to your account** | **$[ADVANCE_AMOUNT]** |
+| **Factor rate** | **[X.XX]** |
+| **Purchased amount (total payback)** | **$[RTR_AMOUNT]** |
+| **Cost of capital (RTR − Advance)** | **$[COST_OF_CAPITAL]** |
+| **Term** | **[X] months** |
+| **Payment frequency** | **[Daily / Weekly] ACH** |
+| **Per-payment amount** | **$[PER_PAYMENT]** |
 
-*Timeline assumes timely access to stakeholders, systems, and data as outlined
-in the assumptions section.*
+### Payment Math (shown in plain English)
 
----
+```
+  $[ADVANCE_AMOUNT]        advance
+×      [X.XX]              factor rate
+= $[RTR_AMOUNT]             total receivables purchased
 
-## 7. Investment
+$[RTR_AMOUNT]
+÷ [BUSINESS_DAYS_OR_WEEKS]  term length
+= $[PER_PAYMENT]            per payment
+```
 
-### Option A: [TIER_NAME — e.g., Essential]
-
-| Item                 | Details                        | Price         |
-| -------------------- | ------------------------------ | ------------- |
-| [LINE_ITEM_1]        | [DESCRIPTION]                  | $[AMOUNT]     |
-| [LINE_ITEM_2]        | [DESCRIPTION]                  | $[AMOUNT]     |
-| [LINE_ITEM_3]        | [DESCRIPTION]                  | $[AMOUNT]     |
-| **Total**            |                                | **$[TOTAL]**  |
-
-### Option B: [TIER_NAME — e.g., Professional] *(Recommended)*
-
-| Item                 | Details                        | Price         |
-| -------------------- | ------------------------------ | ------------- |
-| Everything in Essential | Plus:                       |               |
-| [LINE_ITEM_4]        | [DESCRIPTION]                  | $[AMOUNT]     |
-| [LINE_ITEM_5]        | [DESCRIPTION]                  | $[AMOUNT]     |
-| **Total**            |                                | **$[TOTAL]**  |
-
-### Option C: [TIER_NAME — e.g., Enterprise]
-
-| Item                 | Details                        | Price         |
-| -------------------- | ------------------------------ | ------------- |
-| Everything in Professional | Plus:                    |               |
-| [LINE_ITEM_6]        | [DESCRIPTION]                  | $[AMOUNT]     |
-| [LINE_ITEM_7]        | [DESCRIPTION]                  | $[AMOUNT]     |
-| **Total**            |                                | **$[TOTAL]**  |
-
-**Payment Terms:** [TERMS — e.g., 50% upfront, 25% at Phase 2 milestone, 25% on completion]
+**Approximate monthly debit:** $[MONTHLY_EQUIVALENT] — that's **~[X]%** of your
+$[AVG_MONTHLY_REVENUE] average monthly deposits. Industry guidance is to keep
+total MCA debits under 9% of monthly deposits on a first position; this offer
+comes in at [X]%.
 
 ---
 
-## 8. ROI Projection
+## 5. How Repayment Works
 
-### Quantified Benefits
+**1. ACH debit schedule.** Starting [START_DATE], [FUNDER_SHORT_NAME] will debit
+$[PER_PAYMENT] [Monday–Friday / every Friday] from your business checking account
+ending in [LAST_4_OF_ACCOUNT] until the full purchased amount of $[RTR_AMOUNT]
+has been delivered.
 
-| Benefit Area         | Conservative Est. | Likely Est.    | Optimistic Est. |
-| -------------------- | ------------------ | -------------- | --------------- |
-| [BENEFIT_1]          | $[AMOUNT]          | $[AMOUNT]      | $[AMOUNT]       |
-| [BENEFIT_2]          | $[AMOUNT]          | $[AMOUNT]      | $[AMOUNT]       |
-| [BENEFIT_3]          | $[AMOUNT]          | $[AMOUNT]      | $[AMOUNT]       |
-| **Total Annual**     | **$[TOTAL]**       | **$[TOTAL]**   | **$[TOTAL]**    |
+**2. No early-payoff penalty.** You may pay the remaining balance at any time;
+the purchased amount does not reduce (it is a fixed receivables purchase, not
+amortizing interest).
 
-### Return Timeline
-- **Break-even:** [MONTHS] months (based on conservative estimates)
-- **12-month ROI:** [X]x return on investment
-- **24-month ROI:** [X]x return on investment
+**3. Modifications for hardship.** If your revenue drops materially during the
+term, contact your account manager. Funders typically offer temporary reduced
+payments ("mods") in documented hardship situations. This is not forgiveness.
 
-### Assumptions
-- [ASSUMPTION_1]
-- [ASSUMPTION_2]
-- [ASSUMPTION_3]
+**4. ACH reversals.** Blocking an ACH without prior written agreement is a
+breach of the merchant agreement and may accelerate the full balance due.
 
 ---
 
-## 9. Your Team
+## 6. What This Is — and What It Is Not
 
-### [TEAM_MEMBER_1_NAME] — [ROLE]
-[BIO — 2-3 sentences highlighting relevant experience and qualifications.
-Focus on experience with similar companies or industries.]
+**What this is:**
+A purchase by [FUNDER_LEGAL_NAME] of $[RTR_AMOUNT] of [MERCHANT_LEGAL_NAME]'s
+future receivables, in exchange for $[ADVANCE_AMOUNT] paid today. This is a
+commercial receivables transaction governed by the attached merchant agreement
+under [APPLICABLE_STATE] law.
 
-### [TEAM_MEMBER_2_NAME] — [ROLE]
-[BIO]
+**What this is not:**
+- This is **not a loan**. There is no interest rate, no amortization, and no
+  maturity date in the loan-contract sense. You are not a borrower.
+- There is **no physical collateral** being pledged. The funder files a UCC-1
+  financing statement on the business's receivables as standard practice.
+- There is **no prepayment penalty** — but there is also no interest savings
+  from early payoff, because the purchased amount is fixed.
 
-### [TEAM_MEMBER_3_NAME] — [ROLE]
-[BIO]
-
-**Support Model:** [DESCRIBE_ONGOING_SUPPORT — dedicated account manager,
-response times, escalation process, etc.]
-
----
-
-## 10. Case Studies
-
-### [CASE_STUDY_1_COMPANY] — [INDUSTRY]
-
-**Challenge:** [BRIEF_CHALLENGE_DESCRIPTION]
-**Solution:** [WHAT_YOU_DID]
-**Results:**
-- [METRIC_1 — e.g., "45% increase in conversion rate"]
-- [METRIC_2 — e.g., "Reduced onboarding time from 3 weeks to 3 days"]
-- [METRIC_3 — e.g., "$2.1M in incremental revenue within 12 months"]
-
-> "[CUSTOMER_QUOTE — brief testimonial from the client]"
-> — [NAME], [TITLE] at [COMPANY]
-
-### [CASE_STUDY_2_COMPANY] — [INDUSTRY]
-
-**Challenge:** [BRIEF_CHALLENGE_DESCRIPTION]
-**Solution:** [WHAT_YOU_DID]
-**Results:**
-- [METRIC_1]
-- [METRIC_2]
-- [METRIC_3]
-
-> "[CUSTOMER_QUOTE]"
-> — [NAME], [TITLE] at [COMPANY]
+A personal guarantee (PG) from [PG_NAMES] is included. The PG is enforceable
+in the event of fraud, misrepresentation, or breach of the merchant agreement
+(e.g., closing the business or diverting receivables).
 
 ---
 
-## 11. Next Steps
+## 7. State Disclosures
 
-To move forward, here's what we recommend:
+*(Include the applicable block based on merchant state. Remove others.)*
 
-| Step | Action                                    | Owner                | By When        |
-| ---- | ----------------------------------------- | -------------------- | -------------- |
-| 1    | Review proposal and share feedback        | [CLIENT_CONTACT]     | [DATE]         |
-| 2    | Proposal Q&A / follow-up call             | Both teams           | [DATE]         |
-| 3    | Internal alignment and approval           | [CLIENT_TEAM]        | [DATE]         |
-| 4    | Sign agreement and schedule kickoff       | Both teams           | [DATE]         |
-| 5    | Kickoff meeting and Phase 1 start         | [YOUR_TEAM]          | [DATE]         |
+**California (SB 1235):**
+- Amount financed: $[ADVANCE_AMOUNT]
+- Total cost of financing: $[RTR_AMOUNT]
+- Total dollar cost of financing: $[COST_OF_CAPITAL]
+- Estimated term: [X] months
+- Frequency of payments: [Daily / Weekly]
+- Annualized rate disclosure: [X]% *(provided per state requirement; APR is
+  not the pricing mechanism of this product)*
+- Prepayment: no penalty; purchased amount is fixed
 
-**Questions?** Contact [YOUR_NAME] at [YOUR_EMAIL] or [YOUR_PHONE].
+**New York (Commercial Finance Disclosure Law, effective 2024):**
+- Finance charge: $[COST_OF_CAPITAL]
+- Total repayment amount: $[RTR_AMOUNT]
+- Estimated APR: [X]% *(for comparison only)*
+- Estimated term: [X] months
+- Monthly cost: $[MONTHLY_EQUIVALENT]
+- Prepayment terms: no penalty; purchased amount does not reduce
+
+**Virginia / Utah:** similar disclosures provided on the state-specific addendum.
 
 ---
 
-*This proposal is confidential and intended solely for [CLIENT_COMPANY_NAME].
-Valid until [EXPIRATION_DATE]. [YOUR_COMPANY_NAME] reserves the right to
-modify scope and pricing after expiration.*
+## 8. Alternative Structures (if applicable)
+
+If the headline offer doesn't fit, here are alternative structures we can pursue:
+
+### Option B — Lower factor, longer term (if merchant qualifies)
+- Advance: $[ADVANCE_AMOUNT]
+- Factor: [X.XX]
+- Term: [X] months · Payment: $[PER_PAYMENT] [daily / weekly]
+- **Best for:** merchants who want lower daily bite and better total cost, with stronger underwriting required.
+
+### Option C — Weekly instead of daily
+- Same advance and factor
+- Weekly ACH of $[WEEKLY_PAYMENT] on [DAY_OF_WEEK]
+- **Best for:** merchants whose deposit flow is weekly rather than daily (e.g., B2B invoicing vs. retail card volume).
+
+### Option D — Consolidation (if merchant has open positions)
+- Single advance of $[CONSOLIDATION_AMOUNT] pays off [N] existing positions and leaves $[NET_CASH_OUT] in net new capital.
+- Unified daily of $[UNIFIED_DAILY] replaces [N] separate debits.
+- **Best for:** merchants currently stacked who want simplified cash flow.
+
+---
+
+## 9. To Fund: Required Documents Checklist
+
+| # | Document | Status |
+|---|----------|:------:|
+| 1 | Signed merchant agreement (attached) | ☐ |
+| 2 | Completed funding questionnaire | ☐ |
+| 3 | Most recent business bank statement (if > 30 days since last submission) | ☐ |
+| 4 | Voided business check for the funding account | ☐ |
+| 5 | Government-issued ID for each 25%+ owner | ☐ |
+| 6 | ACH authorization form (included in merchant agreement) | ☐ |
+| 7 | [IF_APPLICABLE — Inter-creditor, subordination, processor letter, lease copy] | ☐ |
+
+**Estimated time from signed agreement to wire:** 1–3 business days.
+
+---
+
+## 10. Your Team
+
+### Cris Prince — Senior Funding Specialist, Mrchnt Funding
+Funded over $45M across 5 years for small business owners nationwide.
+We place deals across a 40+ funder panel in all 50 states, with 1st-position
+focus for clean-paper merchants and structured consolidations for stacked files.
+(929) 839-0555 · cris@mrchntfunding.com · https://mrchntfunding.com/
+
+### [YOUR_UNDERWRITER_OR_ACCOUNT_MANAGER] — [TITLE], [FUNDER_SHORT_NAME]
+[One sentence describing their role post-funding — primarily servicing, mods, renewals.]
+[THEIR_CONTACT]
+
+**After funding:** [FUNDER_SHORT_NAME]'s servicing team handles daily ACH, statements,
+and renewal conversations. I (your ISO) stay in the loop for any issues or when
+you're ready to look at a renewal or second position.
+
+---
+
+## 11. Comparable Deals
+
+### Family-run Italian restaurant — Long Island, NY
+- Profile: 14 years in business, ~$78k/mo avg deposits, 1st position, clean bank statements.
+- Structure: $60,000 advance at 1.32 over 9 months · daily ACH ~$345.
+- Use: Replace walk-in cooler + January inventory buy.
+- Outcome: Funded in 48 hours. Renewed 8 months later at 1.28.
+
+### HVAC contractor — Tampa, FL
+- Profile: 6 years in business, ~$145k/mo avg deposits, 1st position.
+- Structure: $125,000 advance at 1.28 over 12 months · daily ACH ~$635.
+- Use: Fleet expansion — added 2 service vans.
+- Outcome: 2nd van generated ~$18k/mo in additional revenue within 60 days.
+
+---
+
+## 12. Next Steps
+
+| # | Action | Owner | By When |
+|---|--------|-------|---------|
+| 1 | Review this proposal and attached merchant agreement | [OWNER_FIRST_NAME] | [DATE + 2 days] |
+| 2 | Ask questions — phone call, email, whatever works | Both | Anytime |
+| 3 | Sign merchant agreement and return to cris@mrchntfunding.com | [OWNER_FIRST_NAME] | Before [EXPIRATION_DATE] |
+| 4 | Final verification call with [FUNDER_SHORT_NAME] | Funder | Within 24 hrs of signed agreement |
+| 5 | Wire funded to business account ending [LAST_4] | Funder | [ESTIMATED_FUNDING_DATE] |
+
+**Questions? Concerns? Want to push back on the factor?**
+Call me direct: (929) 839-0555. I'd rather rework the structure and get this right
+than lose the deal over a number we can probably move.
+
+---
+
+*This proposal is confidential and intended solely for [MERCHANT_LEGAL_NAME].
+Offer valid until [EXPIRATION_DATE]. All funding subject to final verification
+and underwriting. Mrchnt Funding and [FUNDER_LEGAL_NAME] reserve the right
+to modify or withdraw this offer based on material changes in the merchant's
+business, bank activity, or credit profile prior to funding.*
+
+*Merchant Cash Advance is a purchase of future receivables, not a loan.
+Mrchnt Funding operates as an Independent Sales Organization (ISO) for
+[FUNDER_LEGAL_NAME] and other funding partners; compensation is paid by the
+funder, not the merchant.*

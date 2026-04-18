@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#quick-start"><img src="https://img.shields.io/badge/install-one--liner-blue?style=for-the-badge" alt="Install"></a>
-  <a href="#commands"><img src="https://img.shields.io/badge/14_skills-ready-8b5cf6?style=for-the-badge" alt="14 Skills"></a>
+  <a href="#commands"><img src="https://img.shields.io/badge/15_skills-MCA_tuned-8b5cf6?style=for-the-badge" alt="15 Skills"></a>
   <a href="#how-it-works"><img src="https://img.shields.io/badge/5_parallel-agents-22c55e?style=for-the-badge" alt="5 Agents"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-gray?style=for-the-badge" alt="MIT License"></a>
 </p>
@@ -47,13 +47,13 @@ Full analysis saved to PROSPECT-ANALYSIS.md
 ### One-Command Install
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/zubair-trabzada/ai-sales-team-claude/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/crisprince-capital/ai-sales-team-claude/main/install.sh | bash
 ```
 
 ### Manual Install
 
 ```bash
-git clone https://github.com/zubair-trabzada/ai-sales-team-claude.git
+git clone https://github.com/crisprince-capital/ai-sales-team-claude.git
 cd ai-sales-team-claude
 ./install.sh
 ```
@@ -70,7 +70,7 @@ pip install -r requirements.txt
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║  AI Sales Team — Claude Code Skills                     ║
-║  14 Skills · 5 Agents · 4 Scripts · PDF                 ║
+║  15 Skills (MCA-tuned) · 5 Agents · 4 Scripts · PDF                 ║
 ╚══════════════════════════════════════════════════════════╝
 
 Installing skills...
@@ -493,7 +493,7 @@ ai-sales-team-claude/
 ./uninstall.sh
 
 # Or remotely
-curl -fsSL https://raw.githubusercontent.com/zubair-trabzada/ai-sales-team-claude/main/uninstall.sh | bash
+curl -fsSL https://raw.githubusercontent.com/crisprince-capital/ai-sales-team-claude/main/uninstall.sh | bash
 ```
 
 Removes all skills, agents, scripts, and templates from `~/.claude/`. Python packages are not removed.
@@ -503,6 +503,6 @@ Removes all skills, agents, scripts, and templates from `~/.claude/`. Python pac
 <p align="center">
   <strong>MIT License</strong> · Copyright (c) 2026 Zubair Trabzada
   <br><br>
-  <a href="https://github.com/zubair-trabzada/ai-sales-team-claude/issues">Report Bug</a> ·
-  <a href="https://github.com/zubair-trabzada/ai-sales-team-claude/issues">Request Feature</a>
+  <a href="https://github.com/crisprince-capital/ai-sales-team-claude/issues">Report Bug</a> ·
+  <a href="https://github.com/crisprince-capital/ai-sales-team-claude/issues">Request Feature</a>
 </p>
